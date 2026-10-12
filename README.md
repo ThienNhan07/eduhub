@@ -1,6 +1,6 @@
 # EduHub – Bài tập Ch01
 
-- Môn: IN4211 – Phát triển phần mềm hướng đối tượng
+- Môn: IN421107 – Phát triển phần mềm hướng đối tượng
 - Sinh viên: Trương Nguyễn Thiện Nhân – MSSV: 0024418147
 
 ## Nội dung
